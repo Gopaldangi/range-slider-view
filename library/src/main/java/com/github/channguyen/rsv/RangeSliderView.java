@@ -34,7 +34,7 @@ public class RangeSliderView extends View {
 
   private static final float DEFAULT_SLIDER_RADIUS_PERCENT = 0.25f;
 
-  private static final int DEFAULT_RANGE_COUNT = 5;
+  private static final int DEFAULT_RANGE_COUNT = 10;
 
   private static final int DEFAULT_HEIGHT_IN_DP = 50;
 
